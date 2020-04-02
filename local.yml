@@ -2,4 +2,4 @@
   - name: local setup
     hosts: all
     roles:
-      - local-test
+      - local
