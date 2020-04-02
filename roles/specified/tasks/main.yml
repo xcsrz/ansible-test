@@ -1,4 +1,3 @@
----
-
-debug:
-  msg: "here in specified"
+- name: print specified message
+  debug:
+    msg: "here in specified"

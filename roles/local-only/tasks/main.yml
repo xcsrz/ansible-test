@@ -1,4 +1,3 @@
----
-
-debug:
-  msg: "here in local-only"
+- name: print local-only message
+  debug:
+    msg: "here in specified"
